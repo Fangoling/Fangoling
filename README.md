@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![person coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+![person coding](https://img.devrant.com/devrant/rant/r_569198_W7mee.jpg)
 
 - 🔭 I’m currently working on the Soil Planter app
 - 🌱 I’m currently learning Python, C and SQL at the University and Kotlin in my free time
