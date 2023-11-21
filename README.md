@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![person coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
 <!--
 **Fangoling/Fangoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
