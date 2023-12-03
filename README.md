@@ -2,8 +2,8 @@
 
 ![person coding](https://img.devrant.com/devrant/rant/r_569198_W7mee.jpg)
 
-- 🔭 I’m studying at TUM and currently contributing to the Soil Planter app
-- 🌱 I’m learning Python, C, and SQL at the University and Kotlin/Jetpack Compose in my free time
+- 🔭 studying at TUM and currently contributing to the Soil Planter app
+- 🌱 learning Python, C, and SQL at the University and Kotlin/Jetpack Compose in my free time
 <!--
 **Fangoling/Fangoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
