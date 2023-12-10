@@ -2,7 +2,7 @@
 
 ![person coding](https://img.devrant.com/devrant/rant/r_569198_W7mee.jpg)
 
-Visit [my portfolio website](https://www.fangxingliu.com) to learn more about me
+Visit my [website](https://www.fangxingliu.com) to learn more about me
 
 - 🔭 studying at TUM and currently contributing to the [Soil Planter app](https://github.com/SoilPlanter)
 - 🌱 learning Python, C, and SQL at the University and Kotlin/Jetpack Compose in my free time
