@@ -2,21 +2,7 @@
 
 ![person coding](https://img.devrant.com/devrant/rant/r_569198_W7mee.jpg)
 
-Visit my [website](https://www.fangxingliu.com) to learn more about me
+Visit my [website](https://www.fangx.ing) to learn more about me
 
-- 🔭 studying at TUM and currently contributing to the [Soil Planter app](https://github.com/SoilPlanter)
-- 🌱 learning Python, C, and SQL at the University and Kotlin/Jetpack Compose in my free time
-<!--
-**Fangoling/Fangoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 studying at TUM
+- 🌱 I'm currenlty learning Go
