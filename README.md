@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![person coding](https://img.devrant.com/devrant/rant/r_569198_W7mee.jpg)
+- studying Computer Science @ TUM
+- proficient in python, typescript
+- currently learning Go, Machine Learning
 
-Visit my [website](https://www.fangx.ing) to learn more about me
-
-- 🔭 studying at TUM
-- 🌱 I'm currenlty learning Go
+Visit my [website](https://www.fangx.ing).
+![spinning computer](https://tenor.com/search/computer-stickers)
