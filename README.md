@@ -5,4 +5,4 @@
 - currently learning Go, Machine Learning
 
 Visit my [website](https://www.fangx.ing).
-![spinning computer](https://tenor.com/search/computer-stickers)
+![spinning computer](https://media.tenor.com/jzLenAc6npoAAAAi/computer-computador.gif)
