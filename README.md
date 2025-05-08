@@ -5,4 +5,5 @@ I am:
 - currently learning Go, Machine Learning
 
 Visit my [website](https://www.fangx.ing) to learn more about me.
+
 ![spinning computer](https://media.tenor.com/jzLenAc6npoAAAAi/computer-computador.gif)
