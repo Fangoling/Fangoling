@@ -4,6 +4,6 @@ I am:
 - proficient in python, typescript
 - currently learning Go, Machine Learning
 
-Visit my [website](https://www.fangx.ing) to learn more about me.
+Visit my [website](https://fangx.ing) to learn more about me.
 
 ![spinning computer](https://media.tenor.com/jzLenAc6npoAAAAi/computer-computador.gif)
