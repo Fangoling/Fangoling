@@ -1,8 +1,7 @@
 ### Hi there 👋
 I am:
 - studying Computer Science @ TUM
-- proficient in python, typescript
-- currently learning Go, Machine Learning
+- currently working @ Siemens
 
 Visit my [website](https://fangx.ing) to learn more about me.
 
